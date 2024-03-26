@@ -11,7 +11,7 @@ const Footer = () => {
                             <img src={require('./logo-new.png')} alt="logo" />
                         </div>
                         <div className="col-md-3">
-                            <h2>Menu</h2>
+                            <h2>Menu11</h2>
                             <ul>
                                 <li>About</li>
                                 <li>Programs</li>
