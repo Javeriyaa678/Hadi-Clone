@@ -6,6 +6,7 @@ import Get_to_know from "./Get_to_know";
 import Workshops from "./Workshops";
 import Enroll from "./Enroll";
 import Testimonial from "./Testimonial";
+import Footer from "./Footer";
 
 import 'bootstrap/dist/css/bootstrap.css';
 import './style.css';
@@ -19,6 +20,7 @@ const App = () => {
             <Workshops />
             <Enroll />
             <Testimonial />
+            <Footer />
            
         </>
 

@@ -265,7 +265,7 @@ align-items: center;
     display: flex;
 }
 
-.testimonil h3, p{
+.testimonil h3{
     font-family: 'poppins', sans-serif;
     color: #fff;
 }
@@ -276,6 +276,10 @@ align-items: center;
     font-weight: 600;
     text-transform: capitalize;
     color: #ffffff;
+}
+
+.testimonil p{
+    color: #fff;
 }
 
 .testimonil img{
@@ -300,4 +304,31 @@ align-items: center;
 .testimonial_author img{
  width: 10%;
  display: block;
+}
+
+.footer{
+    display: flex;
+    justify-content: left;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: #f1f1f1;
+}
+
+.footer img{
+    width: 80%;
+}
+
+.footer h2{
+    font-family: 'poppins', sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: capitalize;
+    color: #0f3f5d;
+}
+
+.footer ol li{
+    font-family: 'poppins', sans-serif;
+    font-size: 16px;
+    list-style: none !important;
+    padding-left: 0rem !important;
 }
